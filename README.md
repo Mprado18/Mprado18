@@ -23,7 +23,7 @@ Estou iniciando no universo do Desenvolvimento e estou amando tudo que estou apr
  
 ## Top langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mprado18&show_icons=true&title_color=0000FF&icon_color=0000FF&text_color=FFFFFF&bg_color=151515)](https://github.com/mprad018/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mprado18&show_icons=true&title_color=0000FF&icon_color=0000FF&text_color=FFFFFF&bg_color=151515)](https://github.com/mprado18/github-readme-stats)
  
 Obrigado pela visita. 
  
