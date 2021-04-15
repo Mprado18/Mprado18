@@ -4,7 +4,9 @@
  
 ## Me chamo Marcos Prado
  
-Estou iniciando no universo do Desenvolvimento e estou amando tudo que estou aprendendo, espero contribuir com meus futuros repositórios para os futuros iniciantes.
+Estudante de Análise e Desneolvimento de SIstemas e estagiário em um time de Desenvolvimento de Android, estou ingressando no mundo mobile e ficando fascinado com as grandes possibilidades de criação de aplicativos inovadores.
+
+Estudando no momento Kotlin e Java, juntamente com o aprendizado das IDE's IntelliJ e Android Studio.
  
  
 ## Contato:
