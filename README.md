@@ -4,9 +4,9 @@
  
 ## Me chamo Marcos Prado
  
-Estudante de Análise e Desneolvimento de SIstemas e estagiário em um time de Desenvolvimento de Android, estou ingressando no mundo mobile e ficando fascinado com as grandes possibilidades de criação de aplicativos inovadores.
+Estudante de Análise e Desenvolvimento de Sistemas e estagiário em um time de Desenvolvimento de Android, estou ingressando no mundo mobile e ficando fascinado com as grandes possibilidades de criação de aplicativos inovadores.
 
-Estudando no momento Kotlin e Java, juntamente com o aprendizado das IDE's IntelliJ e Android Studio.
+Estudando no momento Kotlin, Android e Java, juntamente com o aprendizado das IDE's IntelliJ e Android Studio.
  
  
 ## Contato:
