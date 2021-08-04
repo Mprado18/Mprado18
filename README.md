@@ -1,5 +1,3 @@
-<img align="right" width="500" height="400" src="https://miro.medium.com/max/1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif">
- 
 # Olá, sejam bem vindos (as) ao meu perfil
  
 ## Me chamo Marcos Prado
@@ -14,7 +12,7 @@ Estudando no momento Kotlin, Android e Java, juntamente com o aprendizado das ID
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Mprado18?tab=repositories)](https://github.com/Mprado18?tab=repositories)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mprado18/)](https://www.linkedin.com/in/mprado18/)
   
-### Tecnologias que estou estudando:
+### Tecnologias:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
