@@ -27,11 +27,3 @@ Estudante de Análise e Desenvolvimento de Sistemas e atuando como Android Devel
 ## IDE's e editores
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## Stats and Top Langs
- 
-<div>
- <a href="https://github.com/mprado18">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mprado18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mprado18&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
