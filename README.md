@@ -39,8 +39,8 @@ Desenvolvedor **Android Nativo** com mais de **4 anos de experiência** criando 
 
 | Stack | Tecnologias |
 |------|-------------|
-| **Linguagem** | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) Dart |
-| **Framework** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) Flutter |
+| **Linguagem** | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
+| **Framework** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
 | **Estado & Arquitetura** | Provider · Riverpod *(em estudo)* |
 | **Testes** | Unitários · Widget Tests *(em estudo)* |
 
