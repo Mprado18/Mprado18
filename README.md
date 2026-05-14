@@ -2,7 +2,11 @@
 
 🚀 **Android Developer | Mobile Software Engineer**
 
-Desenvolvedor **Android Nativo** com mais de **4 anos de experiência** criando aplicativos escaláveis, performáticos e fáceis de manter. Forte atuação em **arquitetura de software**, **testes automatizados** e **boas práticas de engenharia**, com foco em experiência do usuário e qualidade de entrega.
+Senior Mobile Software Engineer (Android) com 5 anos de experiência em desenvolvimento de aplicações nativas em larga escala utilizando Kotlin e Java, com foco em performance, arquitetura escalável e qualidade de software.
+
+Ao longo da carreira, atuou no desenvolvimento e evolução de produtos digitais utilizados por milhões de usuários, participando da implementação de funcionalidades, definição de arquitetura, contratos de APIs e decisões de engenharia com impacto direto na experiência do usuário e nos resultados de negócio. 
+
+Também possui experiência com desenvolvimento cross-platform em Flutter e React Native, além de forte domínio em desenvolvimento/automatizações assistidas por IA, com Agents/Skills e SDD (Spec Driven Development), aplicando essas abordagens para acelerar entrega, padronizar fluxos e ampliar qualidade técnica.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
@@ -41,8 +45,8 @@ Desenvolvedor **Android Nativo** com mais de **4 anos de experiência** criando 
 |------|-------------|
 | **Linguagem** | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
 | **Framework** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
-| **Estado & Arquitetura** | Provider · Riverpod *(em estudo)* |
-| **Testes** | Unitários · Widget Tests *(em estudo)* |
+| **Estado & Arquitetura** | BLoC, Provider e Riverpod |
+| **Testes** | Unitários · Widget Tests |
 
 ---
 
